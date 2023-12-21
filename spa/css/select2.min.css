@@ -672,7 +672,7 @@ footer {
 
 
 
-.allergens {
+.allergens, .form-group {
 	display:none !important;
 }
 
