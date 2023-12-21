@@ -715,7 +715,7 @@ footer {
 
 .text3 {
 		text-align: justify !important;
-		max-width:50px !important;
+		max-width:60px !important;
 	    margin: auto;
 		display: block;
 	 
@@ -1078,7 +1078,7 @@ text-shadow: 2px 2px black, 1px 1px black;
   height: 70px;
   max-width:2px !important;
   background: black;
-  margin: 0 10px;
+  margin: 0 20px;
   display: inline-block !important;
   border-radius: 90px;
 }
@@ -1096,7 +1096,7 @@ text-shadow: 2px 2px black, 1px 1px black;
     min-width: 80px;
     width: 600px;
     padding: 5px;
-    margin: 5px;
+    margin: 15px;
     white-space: nowrap;
     line-height: 1.6;
     vertical-align: top;
@@ -1189,5 +1189,5 @@ text-shadow: 2px 2px black, 1px 1px black;
 
 
 
-
-
+ 
+ 
