@@ -1,0 +1,95 @@
+
+.cart:nth-child(2 of .cart){ 
+	background-image: url('https://sc.vergelijk.nl/shoplogos/Mediamarkt.nlgroup.png');
+	background-repeat: no-repeat;
+	background-size: contain; 
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px 80px 0px 150px;
+}
+.cart:nth-child(3 of .cart){ 
+	background-image: url('https://sc.vergelijk.nl/shoplogos/kostaco_don_t_u.png'); 
+	background-repeat: no-repeat;
+	background-size: contain; 
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px 80px 0px 150px;
+}
+.cart:nth-child(4 of .cart){ 
+	background-image: url('https://sc.vergelijk.nl/shoplogos/coolblue.png'); 
+	background-repeat: no-repeat;
+	background-size: contain; 
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px 80px 0px 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cart:nth-of-type(2)  {
+	background-image: url('https://sc.vergelijk.nl/shoplogos/kostaco_don_t_u.png');
+	background-repeat: no-repeat;
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px 0px 0px 110px;
+}
+.cart:nth-child(3 of .cart){ 
+	background-image: url('https://sc.vergelijk.nl/shoplogos/Mediamarkt.nlgroup.png'); 
+	background-repeat: no-repeat;
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px 0px 0px 110px;
+}
+.cart:nth-child(4 of .cart){ 
+	background-image: url('https://sc.vergelijk.nl/shoplogos/coolblue.png'); 
+	background-repeat: no-repeat;
+	margin-left: auto; 
+	margin-right: auto; 
+	padding: 0px 0px 0px 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. De Apple Watch SE 2023 – 40mm is een geavanceerde smartwatch die perfect is voor mensen die op zoek zijn naar een combinatie van stijl en functionaliteit. Met zijn slanke en compacte ontwerp past deze smartwatch comfortabel om je pols en is hij geschikt voor zowel mannen als vrouwen.
+
+2. Deze Apple Watch is uitgerust met een helder en levendig 40mm Retina-display, waardoor je al je meldingen, berichten en apps duidelijk kunt zien. Met de krachtige S6-chip en het watchOS-besturingssysteem biedt deze smartwatch een soepele en responsieve gebruikerservaring.
+
+3. Met de Apple Watch SE 2023 – 40mm kun je je gezondheid en fitness nauwlettend in de gaten houden. Het heeft een ingebouwde hartslagmeter, een stappenteller en een slaaptracker, zodat je je activiteiten en slaappatronen kunt volgen. Bovendien heeft het ook een ingebouwde GPS, zodat je je locatie kunt bijhouden tijdens het sporten of wandelen.
+
+4. Deze smartwatch biedt ook handige functies zoals het beantwoorden van oproepen, het ontvangen van berichten en het bedienen van je muziek rechtstreeks vanaf je pols. Met de Apple Watch SE 2023 – 40mm kun je ook contactloos betalen met Apple Pay en heb je toegang tot duizenden apps in de App Store.
+
+5. Kortom, de Apple Watch SE 2023 – 40mm is een veelzijdige smartwatch die je helpt om verbonden te blijven, je gezondheid en fitness te volgen en je dagelijkse taken gemakkelijker te maken. Met zijn elegante design en krachtige functies is dit de perfecte metgezel voor iedereen die op zoek is naar een hoogwaardige smartwatch.
